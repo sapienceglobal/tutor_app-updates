@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.3",
-  "apkUrl": "https://github.com/sapienceglobal/tutor_app-updates/releases/download/v1.0.3/LearnLink.apk",
-  "releaseNotes": "• Added Release Notes feature.\n• Fixed downloading bug.\n• Improved UI performance.\n• Upload image Bugs Fixes"
+  "latestVersion": "1.0.4",
+  "apkUrl": "https://github.com/sapienceglobal/tutor_app-updates/releases/download/v1.0.4/LearnLink.apk",
+  "releaseNotes": "• 🚀 New: Question Bank & Sets System.\n• ✨ AI-Powered Question Generation.\n• 🎯 Exam Blueprinting (Select & Publish specific questions).\n• 🔄 Smart Exam Updating & Draft Saving.\n• 🐛 Fixed downloading bug.\n• ⚡ Improved UI performance."
 }
