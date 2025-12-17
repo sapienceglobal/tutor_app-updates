@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "apkUrl": "https://github.com/sapienceglobal/tutor_app-updates/releases/download/v1.0.5/LearnLink.apk",
-  "releaseNotes": "• 🎨 Redesigned Result Screen: Stunning UI with detailed performance analytics.\n• 🛠️ Exam Engine Polished: Critical bug fixes & smoother navigation.\n• 🚀 New: Question Bank & AI-Powered Generation.\n• 🎯 Exam Blueprinting: Select & publish specific questions.\n• ⚡ General UI improvements & stability fixes."
+  "latestVersion": "1.0.6",
+  "apkUrl": "https://github.com/sapienceglobal/tutor_app-updates/releases/download/v1.0.6/Learn-Link.apk",
+  "releaseNotes": "🚀 Major Features & Media Upgrades: • 📂 Advanced Upload System: Added support for Video Uploads (MP4, MKV) with a real-time Progress Bar UI. • 🛡️ Smart Error Handling: Implemented "Transactional Uploads" (Auto-rollback/delete from cloud if DB save fails). • ▶️ Lesson Player Upgrade: Fixed missing Quiz Interface, optimized Video streaming, and improved Document handling. • 🚀 New: Question Bank & AI-Powered Generation.
+  🎨 UI/UX & Exam Engine: • 🎨 Redesigned Result Screen: Stunning UI with detailed performance analytics. • 🎯 Exam Blueprinting: Select & publish specific questions. • 🛠️ Exam Engine Polished: Critical bug fixes & smoother navigation. • ⚡ General: Increased file size limits (500MB), UI improvements & stability fixes."
 }
